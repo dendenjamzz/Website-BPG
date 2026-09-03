@@ -3,6 +3,7 @@
   "name": "bpg-react",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://dendenjamzz.github.io/Website-BPG",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -23,8 +24,8 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://dendenjamzz.github.io/Website-BPG"
+    ]
+    
     
   }
 }
